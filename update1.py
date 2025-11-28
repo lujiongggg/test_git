@@ -5,5 +5,11 @@ print('第四次修改')
 # %% 测试jupyter cell
 print('jupyter cell test')
 
-# %% another cell
+# %% 
+# region test
 print('another cell test')
+a = 10
+# endregion
+
+
+# %%
